@@ -4,4 +4,4 @@ A Zoom clone.
 
 ## Getting Started
 
-<video src='/assets/Video.mp4' width=500 ></video>
+<video src='assets/Video.mp4' width=500 ></video>
