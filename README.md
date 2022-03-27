@@ -4,10 +4,7 @@ A Zoom clone.
 
 ## Getting Started
 
-<video src="https://github.com/YashNishal/Zooom/blob/4fc107ccbce198c7088f37e1a27e7d5e165b2858/assets/Video.mp4" ></video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/65TF6UyQ4pE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-<figure class="video_container">
-  <iframe src="assets/Video.mp4" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
 
