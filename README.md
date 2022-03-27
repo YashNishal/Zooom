@@ -6,4 +6,7 @@ A Zoom clone.
 
 <video src="/assets/Video.mp4" ></video>
 
-<iframe src="https://youtu.be/65TF6UyQ4pE" frameborder="0" allowfullscreen="true"> </iframe>
+
+<figure class="video_container">
+  <iframe src="https://youtu.be/65TF6UyQ4pE" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
